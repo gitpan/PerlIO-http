@@ -7,6 +7,7 @@ META.json
 META.yml
 README
 dist.ini
+examples/meta-recent
 lib/PerlIO/http.pm
 lib/PerlIO/http.xs
 t/00-compile.t
